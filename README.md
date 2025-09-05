@@ -56,16 +56,22 @@ Next, configure the symbol library:
 
 1. In the main KiCad window, select `Preferences>Manage Symbol Libraries`
 2. Click the `+` sign and add a new library:
+
 -`Nickname` = `ACRM`
+
 -`Library Path` = `${KICAD_ACRM_LIBS}/Symbols/ACRM.kicad_sym`
+
 -`Description` = `ACRM Symbols`
 
 Finally, configure the footprints library:
 
 1. In the main KiCad window, select `Preferences>Manage Footprint Libraries`
 2. Click the `+` sign and add a new library:
+
 -`Nickname` = `ACRM`
+
 -`Library Path` = `${KICAD_ACRM_LIBS}/ACRMFootprints`
+
 -`Description` = `ACRM Footprints`
 
 
