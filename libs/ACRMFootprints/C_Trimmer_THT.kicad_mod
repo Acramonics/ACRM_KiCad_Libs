@@ -1,0 +1,338 @@
+(footprint "C_Trimmer_THT"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb")
+	(tags " Murata TZB4 TZB4-A")
+	(property "Reference" "REF**"
+		(at 0 -3.85 0)
+		(layer "F.SilkS")
+		(uuid "177313bc-340a-4584-9e57-5ea55ede0369")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "C_Trimmer_THT"
+		(at 0 3.95 0)
+		(layer "F.Fab")
+		(uuid "cad9fcda-49f4-4b16-8ef9-add502130de2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "167bf102-dad5-4fa8-80bd-fcbf69d763c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac5040df-cd95-4549-b873-bd02124d6d26")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 0 0)
+		(end 3.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a7c3dcfd-cb43-4557-b3d0-9981695d0af7")
+	)
+	(fp_line
+		(start -3.9 -3.2)
+		(end -3.9 3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f3e37ace-a725-41e1-9200-a279d066d389")
+	)
+	(fp_line
+		(start -3.9 3.2)
+		(end 3.9 3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1af1b20e-92a6-4c21-9941-6a05aafb3410")
+	)
+	(fp_line
+		(start 3.9 -3.2)
+		(end -3.9 -3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "47cfe26a-9956-4881-8839-aa1374a25f4b")
+	)
+	(fp_line
+		(start 3.9 3.2)
+		(end 3.9 -3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fc42a8cd-9593-4ad0-8de8-9fe2919d1648")
+	)
+	(fp_line
+		(start -2.5 -0.6)
+		(end -2.5 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a13e237e-ab34-4336-94f7-ab855e46ee7e")
+	)
+	(fp_line
+		(start -2.5 0.6)
+		(end -2.25 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22804b54-6630-4d09-b3e4-190c8054b671")
+	)
+	(fp_line
+		(start -2.25 -2)
+		(end -2.24 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c2b462b4-76bc-45cc-a656-f36f8019bb54")
+	)
+	(fp_line
+		(start -2.25 -1.99)
+		(end -2.25 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f1838b38-cf63-4fd0-bba3-abdf22589775")
+	)
+	(fp_line
+		(start -2.25 -0.6)
+		(end -2.5 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e16ecba6-6d59-4fae-abaf-814a391e9692")
+	)
+	(fp_line
+		(start -2.25 1.99)
+		(end -2.25 -1.99)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cae1e3b3-2ced-4023-a013-52c6eb167194")
+	)
+	(fp_line
+		(start -2.25 2)
+		(end -2.25 1.99)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c2dd34e2-e7de-4ada-9ac6-d9e8cf316626")
+	)
+	(fp_line
+		(start -2.24 -2)
+		(end 2.24 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e7e07027-3b39-465f-8d72-b9cf2ccce70d")
+	)
+	(fp_line
+		(start -2.24 2)
+		(end -2.25 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14926bcd-dd4d-40e1-988d-0626ddad713d")
+	)
+	(fp_line
+		(start 2.24 -2)
+		(end 2.25 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e875af4e-f920-4e55-9f6b-3921b1bbdb83")
+	)
+	(fp_line
+		(start 2.24 2)
+		(end -2.24 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab0f810d-190a-405d-b6b6-1a41ded67223")
+	)
+	(fp_line
+		(start 2.25 -2)
+		(end 2.25 -1.99)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26a6f297-4970-43cd-9c27-43b1f8a0b52e")
+	)
+	(fp_line
+		(start 2.25 -1.99)
+		(end 2.25 1.99)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e48212f9-43b6-4f77-80a2-718088052c52")
+	)
+	(fp_line
+		(start 2.25 -0.6)
+		(end 2.5 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1415f098-c7a6-4752-b03f-3656af266b40")
+	)
+	(fp_line
+		(start 2.25 1.99)
+		(end 2.25 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "89db3d36-1f50-4bff-b0d3-a49075e6b29c")
+	)
+	(fp_line
+		(start 2.25 2)
+		(end 2.24 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bca454f0-93aa-44eb-82a9-cb10e0f11871")
+	)
+	(fp_line
+		(start 2.5 -0.6)
+		(end 2.5 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2444afcc-214e-4481-8c29-5c4854023b16")
+	)
+	(fp_line
+		(start 2.5 0.6)
+		(end 2.25 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a15520b1-d7d9-4110-b542-6ec10815dd3a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5a9eb72c-54c3-45df-a7a1-2ee37b7bc5a0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "1d32e247-b008-4050-842d-61cad7761d17")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.65 0)
+		(size 2.3 2.3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a086b3de-811c-4a5f-9590-de73a3277afd")
+	)
+	(pad "2" thru_hole circle
+		(at 2.65 0)
+		(size 2.3 2.3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "49f84fa1-0501-42bb-9fba-5948f768085c")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZB4-A.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
