@@ -1,0 +1,216 @@
+(footprint "Trimmer_Vertical_Box_9.5_P10.0x5.0"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
+	(tags "Potentiometer vertical ACP CA9-V10")
+	(property "Reference" "REF**"
+		(at 5 -8.65 0)
+		(layer "F.SilkS")
+		(uuid "d8dc569d-76a0-4cd2-83c7-9ce3d481d3d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Trimmer_Vertical_Box_9.5_P10.0x5.0"
+		(at 5 3.65 0)
+		(layer "F.Fab")
+		(uuid "97ef86ba-967c-4eeb-9f89-feb328d3ecc4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5049a2e1-1111-4afa-9bd7-9c8692f7822a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd82481e-b86a-4727-96c4-b2bcb828403e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "potentiometer/THT"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "89ba53b2-23a3-4df3-afd3-2bb23d129f0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.11 -7.51)
+		(end 10.11 -7.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "552851a5-e0b1-4304-bba2-88d0a93789bb")
+	)
+	(fp_line
+		(start -0.11 -6.396)
+		(end -0.11 -7.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b38fa456-ae03-42cb-9c39-e2baf36b9490")
+	)
+	(fp_line
+		(start -0.11 -1.396)
+		(end -0.11 -3.604)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d013b4b4-d5ab-4577-868d-6d542effc5e2")
+	)
+	(fp_line
+		(start -0.11 2.51)
+		(end -0.11 1.396)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e34c7515-e5d0-4a3a-a00c-a9ac441d4ee8")
+	)
+	(fp_line
+		(start 10.11 -7.51)
+		(end 10.11 -3.896)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c90e6bb6-4c07-49c5-adcb-e3a3fde9cab0")
+	)
+	(fp_line
+		(start 10.11 -1.104)
+		(end 10.11 2.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "985ddac5-eb31-4d28-b2c3-419e9eb277e1")
+	)
+	(fp_line
+		(start 10.11 2.51)
+		(end -0.11 2.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0917dbab-0561-4ada-abd4-5934e6d026b8")
+	)
+	(fp_rect
+		(start -1.42 -7.65)
+		(end 11.42 2.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c4934763-ca5b-4100-8e12-fbea558b3034")
+	)
+	(fp_rect
+		(start 0 -7.4)
+		(end 10 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "18896ff4-bcaa-4cdb-8e99-a6854c60062c")
+	)
+	(fp_circle
+		(center 5 -2.5)
+		(end 6.05 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2fbee948-664c-44da-bbfd-5d8745099598")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1 -2.5 90)
+		(layer "F.Fab")
+		(uuid "9996fe95-233b-4c20-a97d-0f0d73ec9d0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.34 2.34)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9910f6e5-5827-4674-ada3-91a1de23dad5")
+	)
+	(pad "2" thru_hole circle
+		(at 10 -2.5)
+		(size 2.34 2.34)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "adaf52b3-66e9-4949-8623-3fc9a0c2a082")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -5)
+		(size 2.34 2.34)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dcfcd65d-958c-406a-8ecc-4e667a5f9027")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA9-V10_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
