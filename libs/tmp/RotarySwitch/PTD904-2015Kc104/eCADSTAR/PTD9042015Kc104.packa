@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PTD904-2015Kc104"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-12-02-06:33:24)
+    (mountForm default
+        (footprintRef "PTD9042015Kc104")
+        (spec "System")
+    )
+)

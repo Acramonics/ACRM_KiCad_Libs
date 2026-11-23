@@ -1,0 +1,19 @@
+.PTD904-2015Kc104 :1 ;Potentiometer 4 Gang 100 kOhms 25 mW 
+PTD9042015Kc104
+*STM VR
+*NGS
+*PNM 1=R11 2=R12 3=R13 4=R21 5=R22 6=R23 7=R31 8=R32 9=R33 10=R41 11=R42 12=R43
+*PLB 1="CCW_1" 2="WIPER_1" 3="CW_1" 4="CCW_2" 5="WIPER_2" 6="CW_2" 7="CCW_3" 8="WIPER_3" 9="CW_3" 10="CCW_4" 11="WIPER_4" 12="CW_4"
+*MXP 12
+*DFN PTD904-2015Kc104
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PTD904-2015Kc104)
+~!Mouser Part Number (652-PTD9042015KC104)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/PTD904-2015Kc104?qs=5lbl9CW7Yx%252BG%252B7znTmxxmQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/54/ptd90-777943.pdf)
+~!Height (11.9mm)
+~!3D_Model (PTD904-2015Kc104)
+PTD904-2015Kc104
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PTD904_2015Kc104'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "PTD904-2015Kc104" (!) = "", "PTD9042015Kc104", "Other", "652-PTD9042015KC104", "https://www.mouser.co.uk/ProductDetail/Bourns/PTD904-2015Kc104?qs=5lbl9CW7Yx%252BG%252B7znTmxxmQ%3D%3D", "", "", "Potentiometer 4 Gang 100 kOhms 25 mW ", "https://www.mouser.com/datasheet/2/54/ptd90-777943.pdf", "11.9 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PBH4UEENAGVX'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "E-Switch", "PBH4UEENAGVX" (!) = "", "PBH4UEENAGVX", "Other", "612-PBH4UEENAGVX", "https://www.mouser.co.uk/ProductDetail/E-Switch/PBH4UEENAGVX?qs=QtyuwXswaQg0AcsFcToR1A%3D%3D", "PUSHBUTTON, 100mA, 30VDC 4PDT, On-On Through Hole, Right Angle", "https://configured-product-images.s3.amazonaws.com/2D/specs/PBH4UEENAGVX.pdf", "9.35 mm"
+END_PART
+
+END.

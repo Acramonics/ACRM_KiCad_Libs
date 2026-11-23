@@ -1,0 +1,15 @@
+.PBH4UEENAGVX :1 ;PUSHBUTTON, 100mA, 30VDC 4PDT, On-On Through Hole, Right Angle
+PBH4UEENAGVX
+*STM S
+*NGS
+*PLB 1="NC 1" 2="COM 1" 3="NO 1" 4="NC 2" 5="COM 2" 6="NO 2" 7="NC 3" 8="COM 3" 9="NO 3" 10="NC 4" 11="COM 4" 12="NO 4"
+*MXP 12
+*DFN PBH4UEENAGVX
+~!Mouser Part Number (612-PBH4UEENAGVX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/E-Switch/PBH4UEENAGVX?qs=QtyuwXswaQg0AcsFcToR1A%3D%3D)
+~!Manufacturer_Name (E-Switch)
+~!Manufacturer_Part_Number (PBH4UEENAGVX)
+~!Link Datasheet (https://configured-product-images.s3.amazonaws.com/2D/specs/PBH4UEENAGVX.pdf)
+~!Height (9.35mm)
+PBH4UEENAGVX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

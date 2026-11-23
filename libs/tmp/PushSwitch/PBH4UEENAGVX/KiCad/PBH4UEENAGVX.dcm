@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PBH4UEENAGVX
+D PUSHBUTTON, 100mA, 30VDC 4PDT, On-On Through Hole, Right Angle
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/PBH4UEENAGVX.pdf
+$ENDCMP
+#
+#End Doc Library

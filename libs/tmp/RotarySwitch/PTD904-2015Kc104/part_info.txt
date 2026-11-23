@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=PTD904-2015Kc104
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=12
+Version=1.3
+Released=2024-12-02 06:33:23
+Downloaded=2026-05-25 12:26:32
+3D=Y

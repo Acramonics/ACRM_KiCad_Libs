@@ -1,0 +1,9 @@
+Manufacturer=E-Switch
+PartNumber=PBH4UEENAGVX
+PartCategory=Switch
+PackageCategory=Other
+PinCount=12
+Version=4.3
+Released=2024-10-27 10:57:39
+Downloaded=2026-06-06 12:38:40
+3D=N
